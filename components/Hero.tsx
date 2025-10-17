@@ -11,7 +11,7 @@ export default function Hero() {
   const [copied, setCopied] = useState(false)
   
   // Contract address (coming soon)
-  const CONTRACT_ADDRESS = 'Coming Soon - Launch on Pump.fun'
+  const CONTRACT_ADDRESS = 'Fr8L8UHyxdvAPVFBzF37TU5uLKRJgYdvRyFTMww1pump'
 
   useEffect(() => {
     setIsVisible(true)
