@@ -10,8 +10,8 @@ export default function Hero() {
   const [isVisible, setIsVisible] = useState(false)
   const [copied, setCopied] = useState(false)
   
-  // Contract address (coming soon)
-  const CONTRACT_ADDRESS = 'Fr8L8UHyxdvAPVFBzF37TU5uLKRJgYdvRyFTMww1pump'
+  
+  const CONTRACT_ADDRESS = 'soon'
 
   useEffect(() => {
     setIsVisible(true)
