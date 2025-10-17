@@ -137,7 +137,7 @@ export default function Hero() {
               </div>
             </button>
             <p className="text-gray-500 text-xs mt-2 text-center">
-              Click to copy • Will be available after Pump.fun launch 🚀
+              NOW LAUNCH🚀
             </p>
           </div>
         </div>
