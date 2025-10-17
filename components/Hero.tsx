@@ -11,7 +11,7 @@ export default function Hero() {
   const [copied, setCopied] = useState(false)
   
   
-  const CONTRACT_ADDRESS = 'dev wallet 5E8nVveHaGaqAu2rFMSTBNrGBRj41SN5WEqEprC2pp2'
+  const CONTRACT_ADDRESS = '8YaKkyZHU6tjcFrZpTjs6wxmQvVuHfe3tc7rVR7qpump'
 
   useEffect(() => {
     setIsVisible(true)
